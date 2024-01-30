@@ -1,4 +1,4 @@
-# React + Vite
+# TIC-TAC-TOE GAME.
  This a simple react tic-tac-toe game which you can play.
 
 STEPS TO START
